@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702671436.265081,
+			"expirationDate": 1702685135.680613,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702671436.265189,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "10%3AtfUpbO9loWdSdA%3A2%3A1671113244%3A-1%3A-1%3A%3AAcXOULe3QL1OKxgfuGsvThlh2Y_aLw30CCHxIyreOA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671741269,
+			"expirationDate": 1671754059,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +74,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x752"
+			"value": "1600x744"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678912350.202698,
+			"expirationDate": 1702685135.680703,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "10%3AtfUpbO9loWdSdA%3A2%3A1671113244%3A-1%3A-1%3A%3AAcX32mza3oaJQKTs9Y6YycidsnTvCCxrVgXxKAhzvQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678925134.680756,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "02fI6To1UAQarBbuQ.AWU4tS-L5-4Gvhk-JnRnZVZkk0I.Bjm4DO.u3.AAA.0.0.Bjm4Rg.AWUdqf2Ld6s"
+			"value": "0RjbZvP4DWQbe3Jfh.AWVkrmHYip-wOxvA0gWuXDlk3fg.Bjm7ZR.u3.AAA.0.0.Bjm7ZR.AWVNNT_nrD8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671136475228%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671149233218%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "15.12.2022 20:35 PreFarm_by_scenum"
+	"lastEventDate": "16.12.2022 00:07 PreFarm_by_scenum"
 }
