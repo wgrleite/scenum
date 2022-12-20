@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672174735,
+			"expirationDate": 1672175323,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679345780.148895,
+			"expirationDate": 1679346337.812958,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -96,7 +96,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0diaS3wftQASc3JLB.AWUwgoSib-u2OrU-S5-OpT2wqjk.BjoiF3.sG.AAA.0.0.BjoiF3.AWVIYYlIqpI"
+			"value": "0diaS3wftQASc3JLB.AWVVhhlRJ_KCgQcIupma5n9j260.BjoiF3.sG.AAA.0.0.BjoiOi.AWXULLhvFsM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -108,10 +108,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671569840368%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671570496285%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.12.2022 21:00 AUTOFILL-WGR",
+	"lastEventDate": "20.12.2022 21:08 AUTOFILL-WGR",
 	"screenname": "Gabriela Clara",
 	"birthdate": "1973 July 9",
 	"country": "",
