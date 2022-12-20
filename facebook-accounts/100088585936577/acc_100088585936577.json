@@ -6,10 +6,6 @@
 	"id": "100088585936577",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Gabriela Clara",
-	"birthdate": "1973 July 9",
-	"country": "",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -52,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703014222.706842,
+			"expirationDate": 1703101899.229521,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703014222.708272,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "19%3Ax_vcougNqc-QLQ%3A2%3A1671113111%3A-1%3A-1%3A%3AAcUHDCZ-yJv7mT2xUz9snpugRoDj8W1FfxIGTTaVIQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679337868.736686,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0so8TXDsTBBWLqnJ8.AWVrZBQt0z5X3nQK7UO56cZZUxc.BjoLvQ.sG.AAA.0.0.BjogKN.AWV82CEJR9g"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672167019,
+			"expirationDate": 1672171013,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,6 +74,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1703101899.229646,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "19%3Ax_vcougNqc-QLQ%3A2%3A1671113111%3A-1%3A-1%3A%3AAcUfcLfXfsy837syd5FC78yNH0CKuXw53vnGUvBrZg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679342027.928378,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0KoyAvbISW3UawN8Q.AWVGxASlN8ExZbqUeMaYUwC5Y5w.BjohJM.sG.AAA.0.0.BjohLM.AWVmTnuzB74"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,8 +108,12 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671562225377%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671566189181%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.12.2022 19:31 Farm1-3_by_scenum"
+	"lastEventDate": "20.12.2022 19:56 AUTOFILL-WGR",
+	"screenname": "Gabriela Clara",
+	"birthdate": "1973 July 9",
+	"country": "",
+	"isAvatarExists": false
 }
