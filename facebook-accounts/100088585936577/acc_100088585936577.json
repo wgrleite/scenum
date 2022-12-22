@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703192398.958488,
+			"expirationDate": 1703206811.629103,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,20 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672261439,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1034x752"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703192398.958582,
+			"expirationDate": 1703206811.62925,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -83,11 +70,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3Ax_vcougNqc-QLQ%3A2%3A1671113111%3A-1%3A-1%3A%3AAcUOp92Bkv9yOaid-v_SIt--XqRA7uxoB4uMJuxdrQ"
+			"value": "19%3Ax_vcougNqc-QLQ%3A2%3A1671113111%3A-1%3A-1%3A%3AAcU4Np1gHEdyFH8HF-9-gjYDW7OvVlDxxxf9U5gBmHk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679432404.599551,
+			"expirationDate": 1679446810.62934,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -96,7 +83,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FywkIBITFTGNgCg0.AWXEpbhiXsAtg57a7zssBy-y9Es.Bjo3PP.sG.AAA.0.0.Bjo3PV.AWUCUUMQd9A"
+			"value": "0VT2Cfs6BhWGNw7vc.AWUtg-QbWRa6no0o6NhkU5NBMH4.Bjo6wc.sG.AAA.0.0.Bjo6wc.AWUXh8ZTzao"
 		},
 		{
 			"domain": ".facebook.com",
@@ -108,10 +95,23 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671656615307%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671670952166%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672275779,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1034x752"
 		}
 	],
-	"lastEventDate": "21.12.2022 23:09 Farm3-8_by_scenum",
+	"lastEventDate": "22.12.2022 01:02 Farm3-8_by_scenum",
 	"screenname": "Gabriela Clara",
 	"birthdate": "1973 July 9",
 	"country": "",
