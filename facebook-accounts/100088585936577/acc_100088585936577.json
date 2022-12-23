@@ -35,20 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671717912.979485,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703215539.451528,
+			"expirationDate": 1703289156.608382,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,7 +48,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672284470,
+			"expirationDate": 1703289156.608491,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "19%3Ax_vcougNqc-QLQ%3A2%3A1671113111%3A-1%3A-1%3A%3AAcU7j5ejCCz_aydxr3vxdZeX5NJiVZKmu_wfSlVbtWY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679543105.254562,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0BwswJCrGlyZWyt3k.AWWxrWVOz9ppfzmDzcoVUeAyrLQ.BjpO3G.sG.AAA.0.0.BjpSRD.AWW5HqQY8BU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672372147,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,32 +87,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703215539.45163,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "19%3Ax_vcougNqc-QLQ%3A2%3A1671113111%3A-1%3A-1%3A%3AAcVV95abZ4Oi9FD8q_1cYR1FqBCEXaOlqddcpiciCxs"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679455538.451691,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0W7Uw8NpvNxhZzn14.AWWzYNuuyzG9dKqdO4olENdoGu8.Bjo840.sG.AAA.0.0.Bjo840.AWVLC7yVWJk"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -108,10 +95,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671679624079%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671767316696%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.12.2022 03:27 posting teste",
+	"lastEventDate": "23.12.2022 03:49 Farm3-8_by_scenum",
 	"screenname": "Gabriela Clara",
 	"birthdate": "1973 July 9",
 	"country": "",
