@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679697122.690754,
+			"expirationDate": 1679699192.50553,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "08ICFNfC7d29a0R5L.AWUECnyS6ZUgXV50vyHyh0u0xBs.Bjp32Z.sG.AAA.0.0.Bjp33j.AWUbt2q5w1M"
+			"value": "08ICFNfC7d29a0R5L.AWX7ZYG2QusUoYtF9UuWbzGEGlQ.Bjp32Z.sG.AAA.0.0.Bjp4X5.AWVd_kj2JdI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672526423,
+			"expirationDate": 1672528400,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -98,8 +98,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671921564724%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671923568278%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.12.2022 22:41 TESTE 2 FATORES"
+	"lastEventDate": "24.12.2022 23:13 Farm6"
 }
