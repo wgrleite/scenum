@@ -102,9 +102,21 @@
 			"value": "1034x707"
 		}
 	],
-	"lastEventDate": "24.12.2022 22:40 TESTE 2 FATORES",
+	"lastEventDate": "24.12.2022 22:42 TESTE 2 FATORES",
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100088932969747"
 	],
-	"code2fa": "JS746ARZDCSEK6RUJHHNLXE73KF4XCZ2"
+	"code2fa": "JS746ARZDCSEK6RUJHHNLXE73KF4XCZ2",
+	"recoveryCodes": [
+		"14989258",
+		"25793738",
+		"42373974",
+		"45015855",
+		"62244810",
+		"72680165",
+		"82005760",
+		"83904850",
+		"84296359",
+		"92149886"
+	]
 }
